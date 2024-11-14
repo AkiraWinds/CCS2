@@ -71,6 +71,4 @@ Our study supports the hypothesis that multimodal methods improve MER accuracy c
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize sections based on any additional specifics you'd like to highlight! Let me know if you want further adjustments.
